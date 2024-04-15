@@ -1,6 +1,6 @@
 
 public class helloworld {
     public static void main() {
-      System.debug('Hello sales');
+      System.debug('Hello');
     }
   }
